@@ -1,0 +1,24 @@
+*{margin: 0;
+        padding: 0;
+    box-sizing: border-box;}
+header{position: fixed;
+       width: 100%;
+    padding: 2rem;
+    background: black;
+    display: flex;
+    color: aquamarine;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(164, 178, 204);
+}
+.navbar a{font-size: 1.2rem;
+margin-left: 2rem;
+text-decoration: none;
+color: thistle;
+}
+.navbar a:hover{color: darkviolet;}
+.logo:hover{color: darkviolet;}
