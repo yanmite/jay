@@ -29,8 +29,6 @@
     .navbar a:hover{color: darkviolet;}
     .logo:hover{color: darkviolet;}
      body{font-family: 'roboto' sans-serif;}
-
-    
  </style> 
 </head>
 <body>
@@ -60,14 +58,13 @@
 
   <section id="Work" style="height:100; padding:2rem; background:#ebd6e8;">
     <h2>My Work</h2>
-    <p><ul>
+    <ul>
         <li> 1996 - Born in uganda</li>
         <li>2016 - Introduced to Ai intelligence and web development </li>
         <li>2017/2020 - Worked for Microsoft Programming Texas</li>
         <li>2021/2023 - Executive Head Developer in Ignitech, Paris</li>
         <li>2024/Till now - Consult Head for Apple,SAMSUNG</li>
-        
-    </ul> </p>
+      </ul>
   </section>
 
   <section id="Resume" style="height:100; padding:2rem; background:#d5d0d3;">
